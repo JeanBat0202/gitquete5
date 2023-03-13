@@ -1,2 +1,2 @@
-# gitquete5
+LOCAL
 Ceci est la 5eme quete sur git/github
